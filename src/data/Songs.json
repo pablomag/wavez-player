@@ -1,0 +1,54 @@
+[
+    {
+        "id": "2a048a5780723e66fff64c3a60814ea64761284f",
+        "mp3": "9284",
+        "title": "Anywhere But Here",
+        "artist": "Dotlights, Philanthrope",
+        "art": "https://chillhop.com/wp-content/uploads/2020/07/2a048a5780723e66fff64c3a60814ea64761284f-300x300.jpg",
+        "colors": {
+            "primary": "#F1BDC1",
+            "secondary": "#401E37",
+            "tertiary": "#5FAEBB"
+        },
+        "audio": "https://mp3.chillhop.com/serve.php/?mp3=9284"
+    },
+    {
+        "id": "2899f7cc22ab12e17d0119819aac3ca9dbab46e6",
+        "mp3": "10247",
+        "title": "Trenches",
+        "artist": "Philanthrope, Sleepy Fish",
+        "art": "https://chillhop.com/wp-content/uploads/2020/09/2899f7cc22ab12e17d0119819aac3ca9dbab46e6-300x300.jpg",
+        "colors": {
+            "primary": "#EC6931",
+            "secondary": "#35201F",
+            "tertiary": "#B43F35"
+        },
+        "audio": "https://mp3.chillhop.com/serve.php/?mp3=10247"
+    },
+    {
+        "id": "25a182a6a21588b8f7ad5605ba1118a8ea61bdc2",
+        "mp3": "7982",
+        "title": "Watercolor",
+        "artist": "Sleepy Fish",
+        "art": "https://chillhop.com/wp-content/uploads/2020/07/25a182a6a21588b8f7ad5605ba1118a8ea61bdc2-300x300.jpg",
+        "colors": {
+            "primary": "#85CEE1",
+            "secondary": "#192E4B",
+            "tertiary": "#E74252"
+        },
+        "audio": "https://mp3.chillhop.com/serve.php/?mp3=7982"
+    },
+    {
+        "id": "ff35dede32321a8aa0953809812941bcf8a6bd35",
+        "mp3": "9228",
+        "title": "Reflection",
+        "artist": "Swørn",
+        "art": "https://chillhop.com/wp-content/uploads/2020/07/ff35dede32321a8aa0953809812941bcf8a6bd35-300x300.jpg",
+        "colors": {
+            "primary": "#DD9096",
+            "secondary": "#7E497D",
+            "tertiary": "#220A3E"
+        },
+        "audio": "https://mp3.chillhop.com/serve.php/?mp3=9228"
+    }
+]

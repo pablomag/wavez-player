@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Encode Sans";
+    scrollbar-width: thin;
+    scrollbar-color: rgba(155, 155, 155, 0.5) transparent;
+    transition: all 250ms ease-in;
+}
+
+*::-webkit-scrollbar {
+    width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+    border-radius: 15em;
+    margin: 3.5em 0 0.5em;
+    border: 1px solid rgba(216, 216, 216, 0.5);
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: rgba(155, 155, 155, 0.5);
+    border-radius: 20px;
+    border: transparent;
+}
+
+body {
+    font-family: "Encode Sans";
+    font-weight: 400;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Encode+Sans:wght@300;400;500&display=swap");
+
+@import "./FontAwesome";
+
+@import "./Player";
+@import "./Library";
+@import "./Song";
